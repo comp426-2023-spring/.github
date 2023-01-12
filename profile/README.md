@@ -7,10 +7,8 @@ This course takes a very practical, hands-on approach to learning applicative sk
 Follow the links below to repositories containing course information:
 
 - [Syllabus](https://github.com/comp426-2023-spring/syllabus/)
-<!--
 - [Schedule, notes, and slides](https://github.com/comp426-2023-spring/schedule/)
 - [Assignments](https://github.com/comp426-2023-spring/assignments/)
--->
 - [Discussions](https://github.com/orgs/comp426-2023-spring/discussions)
 <!--
 - [Projects](https://github.com/orgs/comp426-2023-spring/projects)
