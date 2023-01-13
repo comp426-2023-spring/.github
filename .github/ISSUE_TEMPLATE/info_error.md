@@ -14,7 +14,7 @@ If you can answer "TRUE" to the first two items below, then create a pull reques
 
 If you don't know how to correct the errorneous information, then create an issue.
 
-None of the above, create an issue
+Still need help? Create an issue
 ------------------------------------------------------------------
 
 Make sure to add **all the information needed to understand the issue** so that someone can help. If the info is missing we'll add the 'Needs more information' label and close the issue until there is enough information.
