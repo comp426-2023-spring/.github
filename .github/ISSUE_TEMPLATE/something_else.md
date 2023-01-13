@@ -12,7 +12,7 @@ Please go through the following list and if you can answer "TRUE" to all of them
 2. [ ] I do not think that this should be posted as a question in the discussions instead of as an issue.
 3. [ ] I attempted to figure out what is going on myself.
 
-None of the above, create an issue
+Did all of the above and still need help? Create an issue.
 ------------------------------------------------------------------
 
 Refer to these articles to better understand how to effectively report an issue in GitHub:
