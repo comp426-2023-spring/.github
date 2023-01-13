@@ -3,7 +3,7 @@ name: Ask for clarification
 about: Use this template when something in the directions is confusing or needs clarifying.
 title: "Clarification needed: [SHORT DESCRIPTION OF CONFUSING THING]"
 labels: documentation, needs clarification, needs triage
-assignees: jdmar3, camsimba
+assignees: jdmar3
 ---
 
 If you can answer "TRUE" to number 1 and 2 below, then create a pull request and correct the error:
