@@ -3,17 +3,18 @@ name: Software runtime error
 about: Use this template for getting help with runtime errors related to your assignments.
 title: "Runtime error: [BRIEF DESCRIPTION OF THE ERROR]"
 labels: runtime error, needs triage
-assignees: jdmar3, camsimba
+assignees: jdmar3
 ---
 
-If you are getting an error message, go through this checklist:
+If you can answer "TRUE" to all of the following, then create an issue:
 
-- [ ] Did you search or read through the other issues on this repo to make sure there isn't already a related issue?
-- [ ] Have you read the words in the error message to understand their meaning?
-- [ ] Have you Googled the words in the error message?
-- [ ] Have you searched through the existing issues on this and other COMP 426 repositories to see if someone else identified and worked through the issue?
+- [ ] I searched the issues for duplicates and related issues and didn't find any.
+- [ ] I read the works in the error message and understand what they mean.
+- [ ] I read documentation related to the error message I received.
+- [ ] I Googled the words in the error message.
 
-None of the above, create an issue
+
+Did all of the above and still need help? Create an issue.
 ------------------------------------------------------------------
 
 Make sure to add **all the information needed to understand the error** so that someone can help. If the info is missing we'll add the 'Needs more information' label and close the issue until there is enough information.
