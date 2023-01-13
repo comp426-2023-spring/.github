@@ -6,7 +6,7 @@ labels: documentation, needs clarification, needs triage
 assignees: jdmar3
 ---
 
-If you can answer "TRUE" to number 1 and 2 below, then create a pull request and correct the error:
+If you can answer "TRUE" to the first two items below, then create a pull request and correct the error:
 
 1. [ ] There is an error in the text.
 2. [ ] I know how to correct the error
@@ -18,7 +18,7 @@ If you can answer "TRUE" to all of the following, then create an issue:
 - [ ] I read documentation about the thing that is confusing me.
 - [ ] I Googled the thing that I find confusing.
 
-None of the above, create an issue
+Did all of the above and still need help? Create an issue.
 ------------------------------------------------------------------
 
 Make sure to add **all the information needed to understand the error** so that someone can help. If the info is missing we'll add the 'Needs more information' label and close the issue until there is enough information.
