@@ -3,7 +3,7 @@ name: Autograder bug
 about: Use this template when the autograder is failing a check that should be passing.
 title: "Autograder: [DESCRIBE BUG BEHAVIOR]"
 labels: bug, autograder, needs triage
-assignees: jdmar3, camsimba
+assignees: jdmar3
 ---
 
 If you think the autograder has a bug, go through the following list and if you can answer "TRUE" to all of them, then create an issue:
