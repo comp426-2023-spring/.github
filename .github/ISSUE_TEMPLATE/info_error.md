@@ -6,11 +6,13 @@ labels: documentation, question
 assignees: jdmar3
 ---
 
-Please go through the following list and :
+If you can answer "TRUE" to the first two items below, then create a pull request and correct the error:
 
-1. [ ] Is there an error in the text or a link?
-2. [ ] Do you know the correct information?
-2. [ ] Did you create a pull request with a correction for the error?
+1. [ ] There is an error in the text.
+2. [ ] I know how to correct the error
+3. [ ] I created a pull request to correct the error. 
+
+If you don't know how to correct the errorneous information, then create an issue.
 
 None of the above, create an issue
 ------------------------------------------------------------------
