@@ -13,7 +13,7 @@ If you think the autograder has a bug, go through the following list and if you 
 - [ ] My code executes without any errors on your my machine.
 - [ ] My code runs as expected on my local machine.
 
-None of the above, create an issue
+Did all of the above and still need help? Create an issue.
 ------------------------------------------------------------------
 
 Make sure to add **all the information needed to understand the error** so that someone can help. If the info is missing we'll add the 'Needs more information' label and close the issue until there is enough information.
